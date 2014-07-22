@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FarmingPlug",
+  "name": "Farming Plus",
+  "description": "A mod that adds increased functionality and farming utilities to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ghosrec35"],
+  "credits": "Ghosrec35",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
